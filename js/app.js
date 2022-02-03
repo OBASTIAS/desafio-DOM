@@ -138,9 +138,6 @@ function header() {
 
   }
   
-
-
-
   
     let body = document.getElementsByTagName("body")[0];
         body.setAttribute("class","bg-light");
